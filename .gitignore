@@ -1,0 +1,41 @@
+# Challenge data — NEVER commit
+dataset/*
+!dataset/.gitkeep
+
+# Outputs
+output/*.tsv
+output/*.zip
+output/*.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment/secrets
+.env
+.env.*
+
+# ML artifacts
+models/
+artifacts/
+cache/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Large files
+*.parquet
+*.feather
+*.pkl
+*.joblib
