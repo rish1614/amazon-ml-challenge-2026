@@ -1,0 +1,14 @@
+{
+  "train_candidate_recall": 0.8587294182316586,
+  "val_candidate_recall": 0.8580709285240989,
+  "train_avg_candidates": 49.05145390934372,
+  "val_avg_candidates": 48.53846942436824,
+  "val_p95_candidates": 80.0,
+  "threshold_s2": 0.7600000000000005,
+  "threshold_s3": 0.8,
+  "validation_f05": 0.9007989991739475,
+  "train_rows_used": 1255201,
+  "train_positive_rows": 237455,
+  "val_candidate_rows": 946937,
+  "val_entities": 20000
+}
