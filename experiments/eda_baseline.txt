@@ -1,0 +1,35 @@
+=== Row counts ===
+S1: 2,206,821
+S2: 5,034,616
+S3: 5,285,603
+
+=== Ground-truth distribution ===
+S1 with zero matches: 123,247 (5.58%)
+Mean matches/S1: 3.461
+Max matches/S1: 11
+S1 with >=1 match: 2,083,574
+
+=== S1 missingness ===
+business_name: 0 (0.00%)
+business_address: 0 (0.00%)
+country: 0 (0.00%)
+
+=== S2 missingness ===
+business_name: 0 (0.00%)
+business_address: 168,967 (3.36%)
+country: 0 (0.00%)
+
+=== S3 missingness ===
+business_name: 0 (0.00%)
+business_address: 175,916 (3.33%)
+country: 0 (0.00%)
+
+=== Country values ===
+S1 ['India', 'US']
+S2 ['India', 'US']
+S3 ['India', 'US']
+
+=== Exact duplicates ===
+S1: 0
+S2: 25,873
+S3: 18,860
